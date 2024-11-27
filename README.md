@@ -1,5 +1,5 @@
 # Projeto Portfolio
-O exércicio proposto era fazer um portfolio.
+O exércicio proposto era fazer um portfolio, usando somente html e css.
 
 ## Sobre
 Eu fiz um projeto no Figma e desenvolvi um modelo de portfolio. O exércicio é um trabalho final do curso de Desenvolvimento Full Stack do Atlanti.
